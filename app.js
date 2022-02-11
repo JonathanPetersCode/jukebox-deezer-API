@@ -12,7 +12,6 @@ function getDeezerFieldExample(field){
         // console.log(Object.keys(res.data))
         console.log(res.data)
       })
-      
 }
 
 // console.log(`Leftoverature Album Info JSON Response: ${kansasLeftovertureAlbumResponse}`);
