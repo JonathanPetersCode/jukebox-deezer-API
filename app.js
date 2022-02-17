@@ -1,5 +1,6 @@
-const { default: axios } = require("axios");
+import vdtJs from '@vidispine/vdt-js';
 
+const { default: axios } = require("axios");
 const kansasLeftovertureAlbum = "https://api.deezer.com/album/78167/"
 const kansasLeftovertureAlbumTracks = "https://api.deezer.com/album/78167/tracks"
 let kansasLeftovertureAlbumResponse = getDeezerFieldExample(kansasLeftovertureAlbum)

@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@vidispine/vdt-api": "^21.3.0"
+    "@vidispine/vdt-api": "^21.3.0",
+    "@vidispine/vdt-js": "^21.3.0"
   }
 }
