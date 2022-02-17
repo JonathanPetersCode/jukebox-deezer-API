@@ -17,6 +17,5 @@ function getDeezerFieldExample(field){
       })
 }
 
-// getDeezerFieldExample(kansasLeftovertureAlbumTracks)
 console.log(`Leftoverature Album (VS Collection) Info JSON Response: ${kansasLeftovertureAlbum}`);
 // console.log(`Leftoverature Album Track (VS Placeholder) Info JSON Response: ${kansasLeftovertureAlbumTracksResponse}`);
